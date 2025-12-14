@@ -38,23 +38,11 @@
   ],
   "links": [
     {
-      "label": "Instagram Persona",
-      "description": "Perfil personal de Instagram",
-      "url": "https://open.spotify.com/artist/...",
-      "icon": "website"
-    },
-    {
-      "label": "Instagram Productora",
-      "description": "Perfil de Instagram de la productora",
-      "url": "https://music.apple.com/artist/...",
-      "icon": "instagram",
+      "label": "Personal IG",
+      "description": "Personal IG",
+      "url": "https://instagram.com/thermionic_culturevulture",
+      "icon": "instagram"
       "cover": "/img/profile.webp"
-    },
-    {
-      "label": "YouTube",
-      "description": "Canal de YouTube del artista",
-      "url": "https://www.youtube.com/channel/...",
-      "icon": "youtube"
     }
   ]
 }
