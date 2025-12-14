@@ -1,15 +1,15 @@
 {
   "config": {
-    "title": "Artistree Landing",
-    "description": "Landind en Astro",
+    "title": "David Vexis",
+    "description": "David Vexis",
     "theme": "violet",
     "font": "modern",
-    "copyright": "© 2025 Franco Suárez"
+    "copyright": "© 2025 David Vexis"
   },
   "artist": {
-    "name": "Singer Artist",
-    "description": "Cantante y compositor de música indie.",
-    "bio": "Creando musica desde siempre",
+    "name": "Producer",
+    "description": "Your new favorite house artist",
+    "bio": "David Vexis is an upcoming house artist",
     "picture": "/img/profile.webp"
   },
   "socials": {
@@ -21,28 +21,8 @@
   },
   "booking": {
     "email": "booking@artistree.link",
-    "phone": "+54 911 2345 6789"
   },
-  "shows": [
-    {
-      "title": "Bailaso",
-      "date": "2025-09-12",
-      "city": "Córdoba",
-      "country": "AR",
-      "venue": "Club Paraguay",
-      "tickets": "https://mipass.com/entradas/xyz",
-      "available": true
-    },
-    {
-      "title": "Bailaso",
-      "date": "2025-10-05",
-      "city": "Madrid",
-      "country": "ES",
-      "venue": "Sala Caracol",
-      "tickets": "https://mipass.com/entradas/xyz",
-      "available": false
-    }
-  ],
+ 
   "releases": [
     {
       "title": "Noche Eterna",
