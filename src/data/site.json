@@ -8,8 +8,8 @@
   },
   "artist": {
     "name": "David Vexis",
-    "description": "Producer and multi-instrumentalist based in North Carolina.",
-    "bio": "",
+    "description": "Musician",
+    "bio": "Producer and multi-instrumentalist based in North Carolina.",
     "picture": "/img/profile.webp"
   },
   "socials": {
@@ -39,7 +39,7 @@
   "links": [
     {
       "label": "Personal IG",
-      "description": "Personal IG",
+      "description": "There's a 50-50 chance I accept that follow request, okay?",
       "url": "https://instagram.com/thermionic_culturevulture",
       "icon": "instagram",
       "cover": "/img/profile.webp"
